@@ -1,3 +1,4 @@
 Esto es un archivo prueba
-Esto es esta muy estable
+Esto no sirve bla bla bla
+#Esto es esta muy estable
 Esto es otro cambio
